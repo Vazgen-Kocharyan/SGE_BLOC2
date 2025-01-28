@@ -15,3 +15,7 @@ El que veiem a aquesta imatge es una consulta de SQL que mostra totes les dades 
 ![captura4](captura4.png)
 
 En aquesta captura podem veure l'execució d'un script de python que imprimeix per la terminal totes les dades que hi han a la base de dades, ens las mostra en una llista de tuples **(es com una llista pero no es pot modificar)** on cada tupla es una fila de la base de dades
+
+![captura5](captura5.png)
+
+En aquesta captura es pot veure la mateixa llista d'abans mes el cinque element de la llista que en aquest cas es l'usuari 'Carlota'.
