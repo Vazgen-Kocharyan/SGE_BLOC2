@@ -19,3 +19,7 @@ En aquesta captura podem veure l'execució d'un script de python que imprimeix p
 ![captura5](captura5.png)
 
 En aquesta captura es pot veure la mateixa llista d'abans mes el cinque element de la llista que en aquest cas es l'usuari 'Carlota'.
+
+![captura6](captura6.png)
+
+En aquesta captura veiem la llista de tots el clients, la tupla de Carlota i el quart element de la tupla.
