@@ -36,3 +36,6 @@ El que es veu a aquesta captura son les dades de cada client de la base de dades
 
 Com podem veure a aquesta captura s'han modificat els telefons de Roger, Alba i Martin gracies al script update que hem creat abans.
 
+![captura10](captura10.png)
+
+Per ultim a aquesta captura es pot veure com s'han eliminat les dades de Roger, Alba i Martin gracies al script Delete.
