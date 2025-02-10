@@ -27,3 +27,12 @@ En aquesta captura veiem la llista de tots el clients, la tupla de Carlota i el 
 ![captura7](captura7.png)
 
 En aquesta captura es mostren algunes dades de la llista de clients.
+
+![captura8](captura8.png)
+
+El que es veu a aquesta captura son les dades de cada client de la base de dades en un format mes llegible.
+
+![captura9](captura9.png)
+
+Com podem veure a aquesta captura s'han modificat els telefons de Roger, Alba i Martin gracies al script update que hem creat abans.
+
